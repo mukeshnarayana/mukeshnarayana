@@ -1,17 +1,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Pabolu Mukesh Narayana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently working on **Backend Project**
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, Mongodb,**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, Mongodb,sql,**
 
 - 👯 I’m looking to collaborate on **Mern Fullstack Projects**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lnyh-git-main-mukeshnarayanas-projects.vercel.app/](https://portfolio-lnyh-git-main-mukeshnarayanas-projects.vercel.app/)
 
-- 💬 Ask me about **JS,Reactjs,nodejs,mongodb**
+- 💬 Ask me about **JS,Reactjs,nodejs,mongodb,sql**
 
 - 📫 How to reach me **mukeshnarayanapabolu@gmail.com**
 
