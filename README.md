@@ -1,8 +1,8 @@
 # Hi 👋, I'm Pabolu Mukesh Narayana
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshnarayana&label=Profile views&color=0e75b6&style=flat" alt="mukeshnarayana" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshnarayana&label=Profile views&color=0e75b6&style=flat" alt="mukeshnarayana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshnarayana" alt="mukeshnarayana" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshnarayana" alt="mukeshnarayana" /></a> </p> -->
 
 - 🔭 I'm currently working on **Working at Techpixe India , as a Backend Developer
 **
@@ -38,7 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukeshnarayana&show_icons=true&locale=en&layout=compact" alt="mukeshnarayana" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukeshnarayana&show_icons=true&locale=en" alt="mukeshnarayana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshnarayana&" alt="mukeshnarayana" /></p>
 
